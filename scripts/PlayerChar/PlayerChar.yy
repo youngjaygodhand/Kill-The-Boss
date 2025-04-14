@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"PlayerChar",
   "parent":{
-    "name":"Save Humanity, Kill The Boss",
-    "path":"Save Humanity, Kill The Boss.yyp",
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",
